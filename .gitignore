@@ -93,5 +93,6 @@ ENV/
 *.idea
 *.out
 *.pyc
+rsa.pem
 db
 songs
