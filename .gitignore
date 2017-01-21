@@ -93,3 +93,5 @@ ENV/
 *.idea
 *.out
 *.pyc
+db
+songs
